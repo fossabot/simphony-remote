@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fstefanoborini%2Fsimphony-remote.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fstefanoborini%2Fsimphony-remote?ref=badge_shield)
+
 Simphony-remote
 ===============
 
@@ -22,3 +24,7 @@ This software is developed under the SimPhoNy project, an EU-project
 funded by the 7th Framework Programme (Project number 604005) under
 the call NMP.2013.1.4-1: "Development of an integrated multi-scale
 modelling environment for nanomaterials and systems by design".
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fstefanoborini%2Fsimphony-remote.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fstefanoborini%2Fsimphony-remote?ref=badge_large)
